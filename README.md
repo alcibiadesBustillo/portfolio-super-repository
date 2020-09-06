@@ -3,9 +3,10 @@ Used to show all the projects
 
 # Django
 
-1. [Portfolio-Website](Proximamente)
-2. [Platzigram](https://github.com/alcibiadesBustillo/platzigram)
-3. [Newspaper](https://github.com/alcibiadesBustillo/newspaper)
+1. [Tv-Log-Tracker](https://github.com/alcibiadesBustillo/TV-log-tracker)
+2. [Portfolio-Website](Proximamente)
+3. [Platzigram](https://github.com/alcibiadesBustillo/platzigram)
+4. [Newspaper](https://github.com/alcibiadesBustillo/newspaper)
 
 # Web-Scraping
 
