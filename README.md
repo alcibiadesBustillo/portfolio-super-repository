@@ -13,6 +13,11 @@ Used to show all the projects
 1. [ETL process](https://github.com/alcibiadesBustillo/webScrapper_newsPaper)
 2. [CIA scraper](https://github.com/alcibiadesBustillo/scraping-CIA)
 
+# API
+
+1. [API News](https://github.com/alcibiadesBustillo/resumen-news-api)
+
+
 # Data Scince
 
 1. 
